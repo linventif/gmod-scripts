@@ -1,7 +1,7 @@
 Weps_Restrict.Config = {}
 
 Weps_Restrict.Config.Language = "french" // french or english
-Weps_Restrict.Config.Admin_Affected = false
+Weps_Restrict.Config.Admin_Affected = true
 
 Weps_Restrict.Config.Admin = {
     ["superadmin"] = true,

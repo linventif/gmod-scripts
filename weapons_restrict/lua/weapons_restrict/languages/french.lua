@@ -1,3 +1,3 @@
 Weps_Restrict.Language = {}
 
-Weps_Restrict.Language.Notif = "Vous ne pouvez pas prendre cette arme dans votre métier !"
+Weps_Restrict.Language.Notif = "Cette arme n'est pas compatible avec votre métier !"

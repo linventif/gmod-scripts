@@ -1,3 +1,3 @@
 Weps_Restrict.Language = {}
 
-Weps_Restrict.Language.Notif = "You can't pickup this weapon in you job !"
+Weps_Restrict.Language.Notif = "This weapon is not compatible with your job !"
